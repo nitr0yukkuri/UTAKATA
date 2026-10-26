@@ -138,7 +138,7 @@ The goal is to create **a few seconds in which the fish feels as if it is being 
 Show only a small amount of information at first.
 
 ```text
-Tokyo Bay goby (Chikuzengobi)
+Hotokedojō (Lefua echigonia)
 UTAKATA LEVEL 5
 “A fish closely associated with Tokyo’s springs and small streams”
 
@@ -720,3 +720,20 @@ Each change of place adds memories of emotions and local ecosystems to the encyc
   https://github.com/pmndrs/react-three-fiber/blob/master/docs/API/canvas.mdx
 - WebGL Aquarium  
   https://github.com/WebGLSamples/WebGLSamples.github.io/tree/master/aquarium
+
+## Backend
+
+- Hono — Node.js  
+  https://hono.dev/docs/getting-started/nodejs
+- Hono — RPC  
+  https://hono.dev/docs/guides/rpc
+- Hono — WebSocket  
+  https://hono.dev/docs/helpers/websocket
+
+---
+
+## Status
+
+**Planning / research phase.**
+
+Requirements, design, and implementation are tracked separately through Issues. MVP implementation will begin after the HACK STAGE rules are confirmed.
